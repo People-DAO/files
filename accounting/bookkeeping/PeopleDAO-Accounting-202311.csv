@@ -14,35 +14,64 @@ Ops Team,Multisignee,emmzii#6873,1000,0x6e38571deb4a1dcebc1717d445daaba35981970b
 Ops Team,Multisignee,Cai#8820,1000,0xbD1187Af7b213694b6ABF2ED86666066FAedb168
 Ops Team,Fireside Chat facilitation,MatterTurbulent#5161,3000,0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
 Ops Team,Fireside Chat facilitation,0xAA#2040,1000,0x3317AD9eDa6942b5a7BE5BA83346C0Ea82C3C26C
+
 Ops Team,Notetaking,arielandco#6089,3000,0x24d8fd78e115abd7e9337447f96a24b8d86edf8c
-Ops Team, Website Deployment (FTP), Pikachu, 5700, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+
 Ops Team, Twitter Collab (FTP), Pikachu, 8250, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Ops Team, AMA ProfWerder Production & Co-Host, Chidi, 500, 0x175cb68d538c2551732555544a80d11b2e6cc523
-Ops Team, AMA Co-Host, Mosadoluwa#8697, 500, 0x0C3baea2FE713be081A366c5b405da5Ea1236751
-Accounting Team,October accounting,Mosadoluwa#8697,5000,0x0C3baea2FE713be081A366c5b405da5Ea1236751
-Developer Team,Files repository maintenance,Prye#4845,2000,0x352D7C5A967e6AdD367D24c764Eb4888E631801f
-Developer Team, Reimbursement for SC Launch, MatterTurbulent#5161, 24200, 0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
-Design Team, Video Teaser, Rohekbenitez, 1000, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
-Design Team, Vitalik Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
-Design Team, Doodle Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
-Design Team, Nouns Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
-Design Team, PPL PLSR Graphics, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Design Team, PPL PLSR Graphics, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Design Team, Owocki Graphics, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Design Team, Video Teaser, pikachu#6696, 1000, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Writer Team, PPL PLSR Editor, pikachu#6696, 250, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Writer Team, Mirror Article (FTP), Mosadoluwa#8697, 750, 0x0C3baea2FE713be081A366c5b405da5Ea1236751
-Writer Team, Mirror Article (FTP), MatterTurbulent#5161,750, 0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
+
+Accounting Team, November accounting, Mosa, 5000,0x0C3baea2FE713be081A366c5b405da5Ea1236751
+Developer Team, Files repository maintenance, Prye#4845,2000,0x352D7C5A967e6AdD367D24c764Eb4888E631801f
+
+Design Team, Satoshi Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Lucrece Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
+Design Team, Danny Ryan Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Suji Yan Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Yuga Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Elan Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Sebastian Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Austin Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+
+Design Team, Laura Shin Graphics, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Design Team, Austin Graphics re-edit, pikachu#6696, 250, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Design Team, Bankless Graphics, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Design Team, XCOPY Graphics, pikachu#6696, 250, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+
+Writer Team, Satoshi Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Lucrece Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Danny Ryan Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Suji Yan Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Laura Shin Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Austin Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Bankless Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, XCOPY Editor, pikachu#6696, 250, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+
+Writer Team, 1/1 Article, Mosa, 1000, 0x0C3baea2FE713be081A366c5b405da5Ea1236751
+Writer Team, 1/1 Aerticle Editor, MatterTurbulent#5161, 500, 0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
+Writer Team, Artist Talk, Mosa, 1000, 0x0C3baea2FE713be081A366c5b405da5Ea1236751
+Writer Team, Artist Talk Editor, MatterTurbulent#5161, 500, 0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
+
 Writer Team, Vitalik Editor, Caramelizer, 250, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
 Writer Team, Superphiz editor/ rewrote thread, Caramelizer, 500, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
 Writer Team, Doodle thread, Caramelizer, 1000, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
 Writer Team, Nouns editor, Caramelizer, 750, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
 Writer Team, Owocki Editor, Caramelizer, 750, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, PPLPLSR Thread, Grant#5308, 750, 0xadd9fecd6e25f5871e9534f87fd0e74121784471
-Writer Team, Owocki Thread, Grant#5308, 250, 0xadd9fecd6e25f5871e9534f87fd0e74121784471
-Writer Team, SuperPhiz Thread, Artistik, 500, 0x704ae251bce9e2fdf5df6e040f76d14e10ef4777
-Writers Team, Nouns Thread, Alfreedie, 250, 0x58e861dd5cc00a9f25c19641994b188ba5bbe4d8
-Writer Team, Vitalik Thread, Cufee, 750, 0xd6b4e50f452ac8d10552700b1866276eb311dcc4
+
+Writer Team, Danny Ryan Thread, Grant#5308, 500, 0xadd9fecd6e25f5871e9534f87fd0e74121784471
+Writer Team, Suji Yan Thread, Grant#5308, 750, 0xadd9fecd6e25f5871e9534f87fd0e74121784471
+Writer Team, Sebastian Thread, Artistik, 750, 0x704ae251bce9e2fdf5df6e040f76d14e10ef4777
+Writer Team, XCOPY Thread, Artistik, 750, 0x704ae251bce9e2fdf5df6e040f76d14e10ef4777
+Writer Team, Lucrece Thread, Artistik, 500, 0x704ae251bce9e2fdf5df6e040f76d14e10ef4777
+Writer Team, Satoshi Thread, Faevy, 500, 0x704ae251bce9e2fdf5df6e040f76d14e10ef4777
+Writers Team, Elan Thread, Alfreedie, 750, 0x58e861dd5cc00a9f25c19641994b188ba5bbe4d8
+Writer Team, Bankless Thread, Royalty, 250, 
+Writer Team, Austin Thread, Mnuvi, 1000, 
+Writer Team, Yuga Thread, DePaul, 750, 
+Writer Team, Laura Shin, Daniel, 500, 
+
+
+
+
+
 Marketing Team, social media group, 0x179,	761,	0x1794bD418F4b08147c53d0780112a43fC19048cf
 Marketing Team, social media group, 小大阳,	544,	0x3Da4da2De7a937aEbBe26166B4f06EDE7Bc77BE5
 Marketing Team, social media group, cara,	739,	0xd2c185c0b8b0f7001a3408689fa22ca8490002fa
