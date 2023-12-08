@@ -1,0 +1,92 @@
+Team/Division,Task,Username,Amount,Address
+Ops Team,Core contributor,0xAA#2040,4000,0x3317AD9eDa6942b5a7BE5BA83346C0Ea82C3C26C
+Ops Team,Core contributor,MatterTurbulent#5161,4000,0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
+Ops Team,Core contributor,Prye#4845,4000,0x352D7C5A967e6AdD367D24c764Eb4888E631801f
+Ops Team,Core contributor,pikachu#6696,4000,0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Ops Team,Multisignee,0xAA#2040,1000,0x3317AD9eDa6942b5a7BE5BA83346C0Ea82C3C26C
+Ops Team,Multisignee,MatterTurbulent#5161,1000,0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
+Ops Team,Multisignee,pikachu#6696,1000,0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Ops Team,Multisignee,arielandco#6089,1000,0x24d8fd78e115abd7e9337447f96a24b8d86edf8c
+Ops Team,Multisignee,Tet#7609,1000,0x6E5cc01c94fFaB8A1db9e70A8caC19767f239443
+Ops Team,Multisignee,Fine#8385,1000,0x2085E2838DE7f47128A94AC9d938ed4C5A28016B
+Ops Team,Multisignee,ifun#9490 ,1000,0xe29eea81db59790e52176d576596c456f73c8132
+Ops Team,Multisignee,emmzii#6873,1000,0x6e38571deb4a1dcebc1717d445daaba35981970b
+Ops Team,Multisignee,Cai#8820,1000,0xbD1187Af7b213694b6ABF2ED86666066FAedb168
+Ops Team,Fireside Chat facilitation,MatterTurbulent#5161,3000,0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
+Ops Team,Notetaking,arielandco#6089,3000,0x24d8fd78e115abd7e9337447f96a24b8d86edf8c
+Accounting Team, November accounting, Mosa, 5000,0x0C3baea2FE713be081A366c5b405da5Ea1236751
+Developer Team, Files repository maintenance, Prye#4845,2000,0x352D7C5A967e6AdD367D24c764Eb4888E631801f
+Developer Team, FTP Widget and Whitelist, Prye#4845,2500,0x352D7C5A967e6AdD367D24c764Eb4888E631801f
+Developer Team, Webflow Monthly, pikachu#6696,1500,0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Developer Team, Typefully Budget, pikachu#6696,2000,0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Design Team, Satoshi Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Lucrece Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
+Design Team, Danny Ryan Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Suji Yan Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Yuga Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Austin Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0
+Design Team, Laura Shin Graphics, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Design Team, Austin Graphics re-edit, pikachu#6696, 250, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Design Team, Bankless Graphics, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Design Team, XCOPY Graphics, pikachu#6696, 250, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Satoshi Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Lucrece Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Danny Ryan Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Suji Yan Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Laura Shin Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Austin Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, Bankless Editor, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, XCOPY Editor, pikachu#6696, 250, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
+Writer Team, 1/1 Article, Mosa, 1000, 0x0C3baea2FE713be081A366c5b405da5Ea1236751
+Writer Team, 1/1 Aerticle Editor, MatterTurbulent#5161, 500, 0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
+Writer Team, Artist Talk, Mosa, 1000, 0x0C3baea2FE713be081A366c5b405da5Ea1236751
+Writer Team, Artist Talk Editor, MatterTurbulent#5161, 500, 0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
+Writer Team, Yuga Editor, Caramelizer, 250, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
+Writer Team, Danny Ryan Thread, Grant#5308, 500, 0xadd9fecd6e25f5871e9534f87fd0e74121784471
+Writer Team, Suji Yan Thread, Grant#5308, 750, 0xadd9fecd6e25f5871e9534f87fd0e74121784471
+Writer Team, XCOPY Thread, Artistik, 750, 0x704ae251bce9e2fdf5df6e040f76d14e10ef4777
+Writer Team, Lucrece Thread, Artistik, 500, 0x704ae251bce9e2fdf5df6e040f76d14e10ef4777
+Writer Team, Satoshi Thread, Faevy, 500, 0x7a4764604d3bbd06734573f5d70b0c6d0ae865be
+Writer Team, Bankless Thread, Royalty, 250, 0x1D6CAaCB0528fd7EfFfE9029604DD2049a40B3cE
+Writer Team, Yuga Thread, DePaul, 750, 0x6fe22a69CbF3668C3aC7c3B7B2A499109A50E205 
+Writer Team, Laura Shin, Daniel, 500, 0x25a49BE835335DAcb832DC404a19625eA627Dc7a
+Writer Team, Austin Thread, Mnuvi, 1000, 0xAc60809C8E5d9829A92a60cDB9b14a4D4f832117
+Marketing Team, Twitter giveaway, Anonymous, 1000, 0x3EA290BC3ce28AE063bc18C3634082Fca1FdE3f6
+Marketing Team, Twitter giveaway, Anonymous, 1000, 0x65229DBE66Af952566FDF912c8a684dd22F3b447
+Marketing Team, Twitter giveaway, Anonymous, 1000, 0x293A65CFe75C0bC249c55e988eD7469dB6FbCea0
+Marketing Team, Twitter giveaway, Anonymous, 1000, 0xDca19F1B8cD7985567Ede578B654F847eA9d2F5E
+Marketing Team, Twitter giveaway, Anonymous, 1000, 0xe7140883c87612d66A45B002101F142529B5c932
+Marketing Team, Twitter giveaway, Anonymous, 1000, 0xAbb1664Aa7ea6ce841bb18C103A623Dc1C705f12
+Marketing Team, Twitter giveaway, Anonymous, 1000, 0x9447035fE567aE30323EA0421F9f38CF2D226465
+Marketing Team, Twitter giveaway, Anonymous, 1000, 0xA784FF82d404F60A92ba685362D824cA3F5dB811
+Marketing Team, Twitter giveaway, Anonymous, 1000, 0xAf020857faB285b33834a4b2cFA34D162090d887
+Marketing Team, social media group, 0x179,	741,	0x1794bD418F4b08147c53d0780112a43fC19048cf
+Marketing Team, social media group, 小大阳,	634,	0xef7198f822fd7979d2b44447fd15b33f9e845fc3
+Marketing Team, social media group, cara,	740,	0xd2c185c0b8b0f7001a3408689fa22ca8490002fa
+Marketing Team, social media group, Palpitate,	740,	0xf827CA6B495A1602127f087237d331715E5079F2
+Marketing Team, social media group, 悠,	740,	0xf3692C17C200bBfA24f00f1b1fD7dcDe87CaD777
+Marketing Team, social media group, 小马哥,	740,	0xdab9c2c077bf083f335953beb41442a9b6a0f36c
+Marketing Team, social media group, Jacob,	704,	0xc3f45F40723F7Ef9063700314b936b8EFA1D1e5A
+Marketing Team, social media group, Single,	740,	0x8424817Abd427e3CF87Cfb9D9F4199Df7b96d843
+Marketing Team, social media group, 琳子,	741,	0x929A29E202e75A653f6799EDE18DB3315992B80d
+Marketing Team, social media group, 初见,	634,	0x3Dc015c92A3555a09FAD1c44359411441caF293b
+Marketing Team, social media group, 因为,	740,	0xd9293636EE3Aa663fc563ADB0912B0705dAfb62c
+Marketing Team, social media group, Micro Negro,	687,	0xbAb1315f63134691634F722F9e393fBE4F12c2AD
+Marketing Team, social media group, 褪色i,	740,	0x1cD51670bD685D800AF3bdAfD4088Ced904aE1C0
+Marketing Team, social media group, people,	741,	0x9447035fE567aE30323EA0421F9f38CF2D226465
+Marketing Team, social media group, dragonwd,	634,	0xeBD50A8D200f5ad8c86b170f69AADaFbc62A74eE
+Marketing Team, social media group, L.E.V.D,	422,	0xfd7eb64b2542636a9899cc519ef23d01df3e8e53
+Marketing Team, social media group, Zzy,	687,	0x7a84B21dFf95E3Be0Da85978A48e4362d7F68D0e
+Marketing Team, social media group, 小元,	740,	0xd03686d054a2c38ae2cefb0c5baff1831b6bb76f
+Marketing Team, social media group, Kleinwang,	634,	0x3F8f23Cb92659957bCeC5A705e44fAFBcf49e54e
+Marketing Team, social media group, 张明鑫,	475,	0x41EC28408bC2244Ca2a3172716dF50A01D1F99Ad
+Marketing Team, social media group, D.K.,	687,	0x5834621f3a246440506065acc6f2edb632293109
+Marketing Team, social media group, 小轩,	741,	0xDF594FbaE9f0b800820624dcDB74D2C8F575312b
+Marketing Team, social media group, 岁月时光,	741,	0xa60c1C4f6ae537271499bF63f0662Fe1A5fE1793
+Marketing Team, social media group, andrewding.eth,	370,	0x9326A94de5CB1517f99FB03C8e89783Aa005328d
+Marketing Team, social media group, x13,	634,	0x8126A78148F41771873c0ad18db477e7BA4B75A6
+Marketing Team, social media group, ——順風順水,	581,	0x9cf5044ad2be2ee92a7ae846d15c53450d5101be
+Marketing Team, social media group, 小龙虾,	740,	0x7FEDBB0302Ab6c23a2A3Ac0787333f27f3fD9390
+Marketing Team, social media group, XH, 581, 0xDca19F1B8cD7985567Ede578B654F847eA9d2F5E
+Marketing Team, social media group, ?, 528, 0x6D7928c2E2a93f2E7046d2495b05e5cd7C06CE51
+Marketing Team, social media group, jiayue110,	741,	0x1b4535700c272737D7848c0262526f0c781f2e0D
