@@ -3,6 +3,7 @@ Ops Team,Core contributor,0xAA#2040,4000,0x3317AD9eDa6942b5a7BE5BA83346C0Ea82C3C
 Ops Team,Core contributor,MatterTurbulent#5161,4000,0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
 Ops Team,Core contributor,Prye#4845,4000,0x352D7C5A967e6AdD367D24c764Eb4888E631801f
 Ops Team,Core contributor,pikachu#6696,4000,0x7f0cee1044269a8b3d809438ffd77baca4d72103
+
 Ops Team,Multisignee,0xAA#2040,1000,0x3317AD9eDa6942b5a7BE5BA83346C0Ea82C3C26C
 Ops Team,Multisignee,MatterTurbulent#5161,1000,0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
 Ops Team,Multisignee,pikachu#6696,1000,0x7f0cee1044269a8b3d809438ffd77baca4d72103
@@ -12,43 +13,10 @@ Ops Team,Multisignee,Fine#8385,1000,0x2085E2838DE7f47128A94AC9d938ed4C5A28016B
 Ops Team,Multisignee,ifun#9490 ,1000,0xe29eea81db59790e52176d576596c456f73c8132
 Ops Team,Multisignee,emmzii#6873,1000,0x4ef9433efacab094745c8c33c992eb0c4f1f0163
 Ops Team,Multisignee,Cai#8820,1000,0xbD1187Af7b213694b6ABF2ED86666066FAedb168
-Ops Team,Fireside Chat facilitation,MatterTurbulent#5161,3000,0xc8eAd785187B816AEAf6387aAcB4ec0d826868d7
-Ops Team, Compensation for past FTP duties, pikachu#6696, 28500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Ops Team, FTP budget, pikachu#6696, 69000, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Ops Team, AfroPiece Artist, Anonymous, 13900, 0x1791843B947F272Ba34A0De656e315c91969F11F 
 
+Ops Team, Scammed victim, anon, $632.18, 0xc5234122344EE8e44A567377988283108dD09E7f
 Accounting Team, December accounting, Mosa, 5000,0x0C3baea2FE713be081A366c5b405da5Ea1236751
-Developer Team, Files repository maintenance, Prye#4845,2000,0x352D7C5A967e6AdD367D24c764Eb4888E631801f
-Developer Team, Typefully Budget, pikachu#6696,2000,0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Developer Team, Webflow Monthly, pikachu#6696,1500,0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Design Team, Elan Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
-Design Team, Sebastian Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
-Design Team, Beeple Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
-Design Team, Hayden Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
-Design Team, Seneca Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
-Design Team, Hal Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
-Design Team, Brendan Graphics, Rohekbenitez, 500, 0x6C965b656C450259a6D4d95A2E68Fb4319EecBc0 
-Design Team, Patricio Graphics, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Design Team, CZ Graphics, pikachu#6696, 500, 0x7f0cee1044269a8b3d809438ffd77baca4d72103
-Writer Team, Elan Editor, Caramelizer, 500, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, Hayden Editor, Caramelizer, 500, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, Beeple Editor, Caramelizer, 500, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, Sebastian Editor, Caramelizer, 500, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, Patricio Editor, Caramelizer, 500, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, Hal Editor, Caramelizer, 500, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, Brendan Editor, Caramelizer, 250, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, Seneca Editor, Caramelizer, 250, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, CZ Writer & Editor, Caramelizer, 1000, 0x18E9A706E45dD1c1718e3c0b1690Ca1896D28329
-Writer Team, Elan Writer, Alfreediee, 250, 0x58e861dd5cc00a9f25c19641994b188ba5bbe4d8
-Writer Team, Patricio Writer, Alfreediee, 350, 0x58e861dd5cc00a9f25c19641994b188ba5bbe4d8
-Writer Team, Sebastian Writer, Artistik, 500, 0x704ae251bce9e2fdf5df6e040f76d14e10ef4777
-Writer Team, Beeple Writer, Cufee, 250, 0xd6b4e50f452ac8d10552700b1866276eb311dcc4
-Writer Team, Hayden Writer, Cufee, 500, 0xd6b4e50f452ac8d10552700b1866276eb311dcc4
-Writer Team, Seneca Writer, Zack (iBeezy), 500, 0x4e70708a26ec6436efde1c3af25425a358ed8afc 
-Writer Team, Hal Writer, Mnuvii, 750, 0xAc60809C8E5d9829A92a60cDB9b14a4D4f832117
-Writer Team, Brendan Writer, Mnuvii, 750, 0xAc60809C8E5d9829A92a60cDB9b14a4D4f832117
-Marketing Team, Thread Writer, Anonymous, 21000, 0x46236f725fdc61df68e6ab12d094cf5995a15802
-
+Developer Team, Files repository maintenance, Prye#4845,2000,0x352D7C5A967e6AdD367D24c764Eb
 
 Marketing Team, social media group, 0x179, 726, 0x1794bD418F4b08147c53d0780112a43fC19048cf
 Marketing Team, social media group, 小大阳, 726, 0xef7198f822fd7979d2b44447fd15b33f9e845fc3
