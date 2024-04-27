@@ -15,43 +15,40 @@ erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0x6c965b656c450259a6d4d95a2e68f
 erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0x0C3baea2FE713be081A366c5b405da5Ea1236751,3000,Mosa,April accounting,Accounting Team
 erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0x352D7C5A967e6AdD367D24c764Eb4888E631801f,2000,Mosa,Files repository maintenance,Developer Team
 
-Marketing Team, social media group, 0x179, 627, 0x1794bD418F4b08147c53d0780112a43fC19048cf
-Marketing Team, social media group, 小大阳, 542, 0xef7198f822fd7979d2b44447fd15b33f9e845fc3
-Marketing Team, social media group, cara, 625, 0xd2c185c0b8b0f7001a3408689fa22ca8490002fa
-Marketing Team, social media group, Palpitate, 583, 0xf827CA6B495A1602127f087237d331715E5079F2
-Marketing Team, social media group, 悠, 625, 0xf3692C17C200bBfA24f00f1b1fD7dcDe87CaD777
-Marketing Team, social media group, 小马哥, 625, 0xdab9c2c077bf083f335953beb41442a9b6a0f36c
-Marketing Team, social media group, Jacob, 611, 0xd96be4a495101393d54c84ad903d4f005178a716
-Marketing Team, social media group, Single, 625, 0x8424817Abd427e3CF87Cfb9D9F4199Df7b96d843
-Marketing Team, social media group, 琳子, 627, 0x929A29E202e75A653f6799EDE18DB3315992B80d
-Marketing Team, social media group, 初见, 625, 0x3Dc015c92A3555a09FAD1c44359411441caF293b
-Marketing Team, social media group, 因为, 583, 0xd9293636EE3Aa663fc563ADB0912B0705dAfb62c
-Marketing Team, social media group, Micro Negro, 542, 0xbAb1315f63134691634F722F9e393fBE4F12c2AD
-Marketing Team, social media group, 褪色i, 625, 0x1cD51670bD685D800AF3bdAfD4088Ced904aE1C0
-Marketing Team, social media group, people, 627, 0x9447035fE567aE30323EA0421F9f38CF2D226465
-Marketing Team, social media group, dragonwd, 583, 0x84c7F981A3d3DA992Ed3b0245699f6D45ee961a8
-Marketing Team, social media group, L.E.V.D, 375, 0xfd7eb64b2542636a9899cc519ef23d01df3e8e53
-Marketing Team, social media group, Zzy, 625, 0x7a84B21dFf95E3Be0Da85978A48e4362d7F68D0e
-Marketing Team, social media group, 小元, 625, 0xd03686d054a2c38ae2cefb0c5baff1831b6bb76f
-Marketing Team, social media group, Kleinwang, 627, 0x3F8f23Cb92659957bCeC5A705e44fAFBcf49e54e
-Marketing Team, social media group, 张明鑫, 500, 0x8eac64739397cf8b547c3f52d34dff7da227f0fb
-Marketing Team, social media group, D.K., 333, 0x5834621f3a246440506065acc6f2edb632293109
-Marketing Team, social media group, 小轩, 627, 0xDF594FbaE9f0b800820624dcDB74D2C8F575312b
-Marketing Team, social media group, 岁月时光, 627, 0x162ede034b826e14ba82a52ca273f4695cd8e350
-Marketing Team, social media group, andrewding.eth, 375, 0x9326A94de5CB1517f99FB03C8e89783Aa005328d
-Marketing Team, social media group, x13, 625, 0x8126A78148F41771873c0ad18db477e7BA4B75A6
-Marketing Team, social media group, ——順風順水, 583, 0x9cf5044ad2be2ee92a7ae846d15c53450d5101be
-Marketing Team, social media group, 小龙虾, 625, 0x51919d32c030f027bb676548d21ef61cea9377b4
-Marketing Team, social media group, XH, 542, 0xDca19F1B8cD7985567Ede578B654F847eA9d2F5E
-Marketing Team, social media group, ?, 375, 0x6D7928c2E2a93f2E7046d2495b05e5cd7C06CE51
-Marketing Team, social media group, jiayue110, 627, 0x1b4535700c272737D7848c0262526f0c781f2e0D
-Marketing Team, social media group, 杞人忧天, 583, 0xda3679e7c9c6ab5655509acbc8752985b78a71e1
-Marketing Team, social media group, T, 250, 0x7bab8842f442de56129d077f0f48e38e76874e32
-Marketing Team, social media group, 参商永离, 542, 0x45deede453bec405fbbd729b2f1a2b5ae4d7cc07
-Marketing Team, social media group, Elk, 583, 0x40c7e2acfdd379dbba75e80d62c0ed9983f025e7
-Marketing Team, social media group, 豆豆, 625, 0xa8370a9ba087a29692b0c51f6656955ad1c660e5
-Marketing Team, social media group, 二牛, 250, 0xcc06058c0cc23cc8aa9b9784995217e76e96f6b5
-
-
-
-
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
+erc20,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,0xe176ee233a6c707c38cd286a89ecc026cd347777,597,0x179,social media group,Marketing Team
